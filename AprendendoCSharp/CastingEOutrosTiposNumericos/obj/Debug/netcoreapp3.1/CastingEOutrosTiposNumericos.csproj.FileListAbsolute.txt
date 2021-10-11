@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CastingEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/CastingEOutrosTiposNumericos.genruntimeconfig.cache

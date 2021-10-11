@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/bin/Debug/netcoreapp3.1/CondicionalComOuE.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/bin/Debug/netcoreapp3.1/CondicionalComOuE.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/bin/Debug/netcoreapp3.1/CondicionalComOuE.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/bin/Debug/netcoreapp3.1/CondicionalComOuE.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/bin/Debug/netcoreapp3.1/CondicionalComOuE.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CondicionalComOuE/obj/Debug/netcoreapp3.1/CondicionalComOuE.genruntimeconfig.cache

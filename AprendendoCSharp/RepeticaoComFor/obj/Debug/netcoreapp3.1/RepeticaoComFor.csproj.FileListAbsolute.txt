@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/bin/Debug/netcoreapp3.1/RepeticaoComFor.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/bin/Debug/netcoreapp3.1/RepeticaoComFor.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/bin/Debug/netcoreapp3.1/RepeticaoComFor.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/bin/Debug/netcoreapp3.1/RepeticaoComFor.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/bin/Debug/netcoreapp3.1/RepeticaoComFor.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComFor/obj/Debug/netcoreapp3.1/RepeticaoComFor.genruntimeconfig.cache

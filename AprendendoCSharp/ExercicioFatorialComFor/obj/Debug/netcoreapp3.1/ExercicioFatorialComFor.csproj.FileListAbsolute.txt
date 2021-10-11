@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/bin/Debug/netcoreapp3.1/ExercicioFatorialComFor.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/bin/Debug/netcoreapp3.1/ExercicioFatorialComFor.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/bin/Debug/netcoreapp3.1/ExercicioFatorialComFor.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/bin/Debug/netcoreapp3.1/ExercicioFatorialComFor.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/bin/Debug/netcoreapp3.1/ExercicioFatorialComFor.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioFatorialComFor/obj/Debug/netcoreapp3.1/ExercicioFatorialComFor.genruntimeconfig.cache

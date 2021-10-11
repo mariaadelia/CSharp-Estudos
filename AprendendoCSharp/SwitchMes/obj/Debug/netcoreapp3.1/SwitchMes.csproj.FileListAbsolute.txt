@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/bin/Debug/netcoreapp3.1/SwitchMes.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/bin/Debug/netcoreapp3.1/SwitchMes.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/bin/Debug/netcoreapp3.1/SwitchMes.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/bin/Debug/netcoreapp3.1/SwitchMes.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/bin/Debug/netcoreapp3.1/SwitchMes.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/SwitchMes/obj/Debug/netcoreapp3.1/SwitchMes.genruntimeconfig.cache

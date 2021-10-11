@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.genruntimeconfig.cache

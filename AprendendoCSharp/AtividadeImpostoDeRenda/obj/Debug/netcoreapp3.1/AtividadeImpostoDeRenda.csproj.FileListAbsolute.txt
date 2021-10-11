@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/bin/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/bin/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/bin/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/bin/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/bin/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/AtividadeImpostoDeRenda/obj/Debug/netcoreapp3.1/AtividadeImpostoDeRenda.genruntimeconfig.cache

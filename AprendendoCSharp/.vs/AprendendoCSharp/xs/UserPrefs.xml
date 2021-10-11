@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DF05EAA0-DE30-4BE8-B30B-44F7BD8A1850}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExercicioFatorialComFor FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SwitchMes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioFatorialComFor/Program.cs">
+    <Files>
+      <File FileName="ExercicioMultiplos3For/Program.cs" Line="21" Column="14" />
+      <File FileName="ExercicioFatorialComFor/Program.cs" Line="9" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AprendendoCSharp" expanded="True">
+            <Node name="ExercicioFatorialComFor" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ExercicioForEncadeado" expanded="True" />
+            <Node name="ExercicioMultiplos3For" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExercicioForEncadeado PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.VariaveisCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExercicioMultiplos3For PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CastingEOutrosTiposNumericos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CondicionalComIfElse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CondicionalComOuE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RepeticaoComFor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RepeticaoComWhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CaracteresETextos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AtividadeImpostoDeRenda PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.VariaveisPontoFlutuante PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

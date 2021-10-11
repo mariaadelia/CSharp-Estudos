@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/bin/Debug/netcoreapp3.1/VariaveisCSharp.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/bin/Debug/netcoreapp3.1/VariaveisCSharp.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/bin/Debug/netcoreapp3.1/VariaveisCSharp.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/bin/Debug/netcoreapp3.1/VariaveisCSharp.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/bin/Debug/netcoreapp3.1/VariaveisCSharp.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisCSharp/obj/Debug/netcoreapp3.1/VariaveisCSharp.genruntimeconfig.cache

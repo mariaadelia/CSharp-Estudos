@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/bin/Debug/netcoreapp3.1/ExercicioForEncadeado.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/bin/Debug/netcoreapp3.1/ExercicioForEncadeado.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/bin/Debug/netcoreapp3.1/ExercicioForEncadeado.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/bin/Debug/netcoreapp3.1/ExercicioForEncadeado.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/bin/Debug/netcoreapp3.1/ExercicioForEncadeado.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioForEncadeado/obj/Debug/netcoreapp3.1/ExercicioForEncadeado.genruntimeconfig.cache

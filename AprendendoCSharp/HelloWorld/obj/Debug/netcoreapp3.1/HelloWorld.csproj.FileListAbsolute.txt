@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

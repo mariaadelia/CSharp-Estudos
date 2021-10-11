@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/VariaveisPontoFlutuante.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/VariaveisPontoFlutuante.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/VariaveisPontoFlutuante.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/VariaveisPontoFlutuante.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/VariaveisPontoFlutuante.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/VariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/VariaveisPontoFlutuante.genruntimeconfig.cache

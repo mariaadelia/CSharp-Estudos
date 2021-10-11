@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/bin/Debug/netcoreapp3.1/RepeticaoComWhile.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/bin/Debug/netcoreapp3.1/RepeticaoComWhile.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/bin/Debug/netcoreapp3.1/RepeticaoComWhile.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/bin/Debug/netcoreapp3.1/RepeticaoComWhile.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/bin/Debug/netcoreapp3.1/RepeticaoComWhile.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RepeticaoComWhile/obj/Debug/netcoreapp3.1/RepeticaoComWhile.genruntimeconfig.cache

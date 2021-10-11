@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/bin/Debug/netcoreapp3.1/ExercicioMultiplos3For.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/bin/Debug/netcoreapp3.1/ExercicioMultiplos3For.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/bin/Debug/netcoreapp3.1/ExercicioMultiplos3For.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/bin/Debug/netcoreapp3.1/ExercicioMultiplos3For.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/bin/Debug/netcoreapp3.1/ExercicioMultiplos3For.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/ExercicioMultiplos3For/obj/Debug/netcoreapp3.1/ExercicioMultiplos3For.genruntimeconfig.cache
