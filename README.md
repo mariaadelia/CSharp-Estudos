@@ -1,4 +1,4 @@
-**CSharp-Estudos**
+#CSharp-Estudos#
 
 
 
@@ -8,7 +8,7 @@ Exercícios feitos nos cursos da Alura sobre **C#** e sobre o Framework **.Net C
 
 **<u>Curso Em Andamento</u>**
 
-- [ ] **[ASP.NET Core parte 1: Um e-Commerce com MVC e EF Core](https://cursos.alura.com.br/course/webapp-com-aspnet-core-2)**
+- <a href="https://cursos.alura.com.br/course/webapp-com-aspnet-core-2" target="_blank">ASP.NET Core parte 1: Um e-Commerce com MVC e EF Core</a>
   - Exercícios do curso:
     - [RelatórioLivro](https://github.com/mariaadelia/CSharp-Estudos/tree/main/RelatorioLivro)
 
