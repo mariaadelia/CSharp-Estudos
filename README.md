@@ -19,4 +19,7 @@ Exercícios feitos nos cursos da Alura sobre **C#** e sobre o Framework **.Net C
 - [x] **[C# parte 1: Primeiros passos](https://cursos.alura.com.br/course/csharp-parte-1-primeiros-passos)**
   - ​	Exercícios do curso:
     - [AprendendoCSharp](https://github.com/mariaadelia/CSharp-Estudos/tree/main/AprendendoCSharp)
+- [x] **[C# parte 2: Introdução à Orientação a Objetos](https://cursos.alura.com.br/course/csharp-parte-2-introducao-orientacao-objetos)**
+  - ​	Exercícios do curso:
+    - [CSHarpModulo2](https://github.com/mariaadelia/CSharp-Estudos/tree/main/CSHarpModulo2)
 
