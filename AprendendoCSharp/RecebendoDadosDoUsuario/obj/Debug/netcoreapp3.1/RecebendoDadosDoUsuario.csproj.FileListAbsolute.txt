@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/bin/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/bin/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/bin/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/bin/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/bin/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/AprendendoCSharp/RecebendoDadosDoUsuario/obj/Debug/netcoreapp3.1/RecebendoDadosDoUsuario.genruntimeconfig.cache

@@ -1,26 +1,17 @@
-﻿<Properties StartupConfiguration="{34136116-789C-45A3-847B-77E5BB601C18}|Default">
+﻿<Properties StartupConfiguration="{95D2DFE4-384D-45F4-A6EE-2F94B44A7521}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ExercicioFatorialComFor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SwitchMes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioFatorialComFor/Program.cs">
-    <Files>
-      <File FileName="ExercicioMultiplos3For/Program.cs" Line="21" Column="14" />
-      <File FileName="ExercicioFatorialComFor/Program.cs" Line="17" Column="32" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AprendendoCSharp" expanded="True">
-            <Node name="ExercicioFatorialComFor" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="ExercicioForEncadeado" expanded="True" />
-            <Node name="ExercicioMultiplos3For" expanded="True" />
-          </Node>
+          <Node name="AprendendoCSharp" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RecebendoDadosDoUsuario PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ExercicioForEncadeado PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.VariaveisCSharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ExercicioMultiplos3For PreferredExecutionTarget="MonoDevelop.Default" />

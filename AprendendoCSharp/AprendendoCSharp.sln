@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMultiplos3For", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFatorialComFor", "ExercicioFatorialComFor\ExercicioFatorialComFor.csproj", "{34136116-789C-45A3-847B-77E5BB601C18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecebendoDadosDoUsuario", "RecebendoDadosDoUsuario\RecebendoDadosDoUsuario.csproj", "{95D2DFE4-384D-45F4-A6EE-2F94B44A7521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{34136116-789C-45A3-847B-77E5BB601C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34136116-789C-45A3-847B-77E5BB601C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34136116-789C-45A3-847B-77E5BB601C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D2DFE4-384D-45F4-A6EE-2F94B44A7521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D2DFE4-384D-45F4-A6EE-2F94B44A7521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D2DFE4-384D-45F4-A6EE-2F94B44A7521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D2DFE4-384D-45F4-A6EE-2F94B44A7521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
