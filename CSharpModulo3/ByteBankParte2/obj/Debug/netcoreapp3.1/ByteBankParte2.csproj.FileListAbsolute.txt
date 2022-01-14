@@ -1,0 +1,13 @@
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/bin/Debug/netcoreapp3.1/ByteBankParte2.deps.json
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/bin/Debug/netcoreapp3.1/ByteBankParte2.runtimeconfig.json
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/bin/Debug/netcoreapp3.1/ByteBankParte2.runtimeconfig.dev.json
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/bin/Debug/netcoreapp3.1/ByteBankParte2.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/bin/Debug/netcoreapp3.1/ByteBankParte2.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.csproj.AssemblyReference.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.AssemblyInfoInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.AssemblyInfo.cs
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.csproj.CoreCompileInputs.cache
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.dll
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.pdb
+/Users/mariaadelia/Desktop/Programação/CSharp/CSharpModulo3/ByteBankParte2/obj/Debug/netcoreapp3.1/ByteBankParte2.genruntimeconfig.cache

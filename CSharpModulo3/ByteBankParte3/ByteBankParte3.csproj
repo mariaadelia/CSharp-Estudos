@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Funcionarios\" />
+    <None Remove="Sistemas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Funcionarios\" />
+    <Folder Include="Sistemas\" />
+  </ItemGroup>
+</Project>
