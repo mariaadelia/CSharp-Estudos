@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/mariaadelia/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/Project1.csproj",
+      "projectName": "Project1",
+      "projectPath": "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/Project1.csproj",
+      "packagesPath": "/Users/mariaadelia/.nuget/packages/",
+      "outputPath": "/Users/mariaadelia/Desktop/Programação/CSharp_BaltaIO_novo/Modulo1/Code/Project1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mariaadelia/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
